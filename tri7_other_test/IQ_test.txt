@@ -1,0 +1,14 @@
+1. 2
+=> the line should be pointing on the upper left, since the first row was pointing lower left.
+
+2. 2
+=> shape should be incrementing of size.
+
+3. 3
+=> shape should start with out any combination
+
+4. 3
+=> none
+
+5. 2
+=> none.
